@@ -1,4 +1,5 @@
 <img width="500" height="150" alt="WhatsApp Image 2026-10-27 at 12 49 30" src="https://github.com/user-attachments/assets/17dfd628-5f67-4667-b476-d9a0ac638894" />
+
 # Anleitung: Google (Android) - Geräte
 
 Bildschirm kabellos auf das Smartboard übertragen
